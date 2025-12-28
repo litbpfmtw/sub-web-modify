@@ -348,7 +348,7 @@ export default {
           "sub-web作者提供": "https://api.wcc.best",
         },
         backendOptions: [
-          { value: "https://apisub.gahana.to" },
+          { value: "https://apisub.gahana.top" },
           { value: "https://subapi.cmliussss.net" },
           { value: "https://subapi.fxxk.dedyn.io" },
           { value: "https://url.v1.mk" },
@@ -1312,6 +1312,7 @@ export default {
   }
 };
 </script>
+
 
 
 
