@@ -338,8 +338,7 @@ export default {
           "suo.yt": "https://suo.yt/short",
         },
         customBackend: {
-          "自用专属后端freeathena": "https://subapi.freeathena.hidns.vip",
-          "自用专属后端gahana": "https://subapi.gahana.top",
+          "自用专属后端gahana": "https://apisub.gahana.top",
           "CM负载均衡后端【vless reality+hy1+hy2】": "https://subapi.cmliussss.net",
           "CM应急备用后端【vless reality+hy1+hy2】": "https://subapi.fxxk.dedyn.io",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
@@ -1313,4 +1312,5 @@ export default {
   }
 };
 </script>
+
 
